@@ -6,9 +6,9 @@
 ### <div align="center">Soy Sergio Alejandro Marin Sarmiento, soy desarrollador full-time  junior advanced full-stack👨‍💻  Y eh estado trabajando profesionalmente desde 2019🚀</div>  
   
 
-- 🔭 Actualmente estoy trabajando en el proyecto personal: [JavaScript-MEAN](https://github.com/MarinWebProg/JavaScript-MEAN)  
+- 🔭 Actualmente estoy trabajando en el proyecto personal: [Angular Advanced](https://github.com/MarinWebProg/Angular-adv) 
   
-
+ 
 - 🌱 Actualmente estoy estudiando AngularJs, SpingBoot Java  
   
 
